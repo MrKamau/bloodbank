@@ -43,7 +43,7 @@ py createsuperuser
 
 ---
 
-## HOW TO RUN THIS PROJECT
+## TO RUN THIS PROJECT
 
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Download This Project Zip Folder and Extract it

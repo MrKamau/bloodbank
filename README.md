@@ -3,6 +3,10 @@
 ## ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Martin%20Mwathi-red)
 
 ## Functions
+update only admin uss the system 
+patient - recepient 
+        - can be an organization 
+        - institution 
 
 ### Admin
 
